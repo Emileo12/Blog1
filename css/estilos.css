@@ -43,7 +43,8 @@ body{
     font-size: 20px;
 }
 #post{
-    color: white;
+    background: white;
+    color: black;
     padding: 1em;
 
 }
