@@ -5,9 +5,15 @@ Soy leonardo y me gusta la bachata con salsa ripiada
 Ademas soy fan del Barca y medianamente del tenis
 
 Master 1
+<<<<<<< HEAD
 
 Experimento 1
 
 Experimento 2 
+=======
+Master 2
+>>>>>>> f51ec20 (cambio de lineas)
+
+
 
 Maria la mejor del planeta activo con preservativo lo reales no son feka
