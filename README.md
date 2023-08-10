@@ -5,3 +5,6 @@
 
 ## En este curso vi de todo
 * creado por el increible platzi
+* creado por el increible platzi
+* incluye ejemplos en windows y mac
+* Disponible para absolutamente a todos
