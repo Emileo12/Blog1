@@ -5,3 +5,4 @@
 
 ## En este curso vi de todo
 * creado por el increible platzi
+* incluye ejemplos en windows y mac
